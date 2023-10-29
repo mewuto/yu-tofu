@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yu-tofu&label=Profile%20views&color=0e75b6&style=flat" alt="yu-tofu" /> </p>
 
 ### Trophy
@@ -13,9 +11,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-tofu&show_icons=true&locale=en" alt="yutofu" /></p>
 -->
 
+<!--
 ### Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-tofu&" alt="yutofu" /></p>
-
+-->
 
 <!--
 **yu-tofu/yu-tofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
