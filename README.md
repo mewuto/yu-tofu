@@ -8,8 +8,10 @@
 ### Languages
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yu-tofu&show_icons=true&locale=en&layout=compact" alt="yutofu" /></p>
 
+<!--
 ### Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-tofu&show_icons=true&locale=en" alt="yutofu" /></p>
+-->
 
 ### Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-tofu&" alt="yutofu" /></p>
